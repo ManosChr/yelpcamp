@@ -1,6 +1,6 @@
 # Yelpcamp
  
-## description
+## Description
 
 > A project developed during the “Web Developer Bootcamp” course by Colt Steele on Udemy.com.
 
