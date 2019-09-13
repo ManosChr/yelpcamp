@@ -2,7 +2,7 @@
  
 ## Description
 
-> A project developed during the “Web Developer Bootcamp” course by Colt Steele on Udemy.com.
+> A project developed during the “Web Developer Bootcamp” course on Udemy.com.
 
 ## Instructions for running locally
 
