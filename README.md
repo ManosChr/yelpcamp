@@ -2,7 +2,7 @@
  
 ## Description
 
-> A project developed during the “Web Developer Bootcamp” course on Udemy.com.
+> A project developed during the “Web Developer Bootcamp” course on Udemy.com, which utilizes technologies like Bootstrap, NodeJS,  ExpressJS, PassportJS and MongoDB.
 
 ## Instructions for running locally
 
